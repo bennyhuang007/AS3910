@@ -1,0 +1,110 @@
+[DebugChecksum]
+Checksum=-153875856
+[DisAssemblyWindow]
+NumStates=_ 1
+State 1=_ 1
+[InstructionProfiling]
+Enabled=_ 0
+[CodeCoverage]
+Enabled=_ 0
+[Profiling]
+Enabled=0
+[StackPlugin]
+Enabled=1
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnHow=0
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Breakpoints]
+Count=0
+[TraceHelper]
+Enabled=0
+ShowSource=1
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[Exceptions]
+StopOnUncaught=_ 0
+StopOnThrow=_ 0
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=0
+[MemoryMap]
+Enabled=0
+Base=0
+UseAuto=0
+TypeViolation=1
+UnspecRange=1
+ActionState=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[CallStackLog]
+Enabled=0
+[DriverProfiling]
+Enabled=0
+Mode=0
+Graph=0
+Symbiont=0
+Exclusions=
+[InterruptLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+SumSortOrder=0
+[DataLog]
+LogEnabled=0
+GraphEnabled=0
+ShowTimeLog=1
+SumEnabled=0
+ShowTimeSum=1
+[Disassemble mode]
+mode=0
+[Breakpoints2]
+Count=0
+[Interrupts]
+Enabled=1
+[MemConfig]
+Base=1
+Manual=0
+Ddf=1
+TypeViol=0
+Stop=1
+[Trace1]
+Enabled=0
+ShowSource=1
+[Aliases]
+A0=_ "C:\Users\Administrator\Desktop\测试工程.2013.02.22.读正常\测试工程\Source\main.c" ""
+A1=_ "C:\Users\Administrator\Desktop\吉欧资料\吉欧资料\Backup\测试工程\at91lib\boards\H82G3_V1\exceptions.c" ""
+A2=_ "D:\吉欧资料\测试工程\at91lib\boards\H82G3_V1\exceptions.c" ""
+A3=_ "D:\吉欧资料\测试工程\at91lib\peripherals\dbgu\dbgu.c" ""
+A4=_ "D:\吉欧资料\测试工程\at91lib\peripherals\pio\pio_it.c" ""
+A5=_ "D:\吉欧资料\测试工程\at91lib\peripherals\spi\spi.c" ""
+A6=_ "E:\吉欧资料\Backup\测试工程.2013.01.27\测试工程\at91lib\boards\H82G3_V1\exceptions.c" ""
+A7=_ "E:\吉欧资料\Backup\测试工程.2013.1.24\测试工程\at91lib\boards\H82G3_V1\board_cstartup_iar.c" ""
+A8=_ "E:\吉欧资料\Backup\测试工程.2013.1.24\测试工程\external_libs\cmsis\core_cm3.h" ""
+A9=_ "E:\吉欧资料\Backup\测试工程\at91lib\boards\H82G3_V1\exceptions.c" ""
+A10=_ "E:\吉欧资料\Backup\测试工程\测试工程\at91lib\boards\H82G3_V1\exceptions.c" ""
+Count=11
+SuppressDialog=1
+[Simulator]
+Freq=10000000
+MultiCoreRunAll=1
